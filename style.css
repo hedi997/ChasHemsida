@@ -175,6 +175,7 @@ ul a {
   width: 300px;
   background-color: white;
   padding: 20px;
+  border-radius: 20%;
 }
 
 .footer {
